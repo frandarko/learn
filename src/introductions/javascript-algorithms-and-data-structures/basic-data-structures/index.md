@@ -5,6 +5,8 @@ superBlock: JavaScript Algorithms and Data Structures
 ---
 ## Introduction to the Basic Data Structure Challenges
 
-This introduction is a stub
+All programming languages contain data structures, but these can differ from one language to another. 
+The following Challenges try to teach the data structures included in JavaScript and what properties they have; these can be used to build other data structures.
 
-Help us make it real on [GitHub](https://github.com/freeCodeCamp/learn/tree/master/src/introductions).
+We will see data structures like arrays and objects.
+Data structures allow you to improve the efficiency, performance, speed, and scalability of your code/programs/applications. You will learn what data structures are, why they are important, and how to code them out in JavaScript.
